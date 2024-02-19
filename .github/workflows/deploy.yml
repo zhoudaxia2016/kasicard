@@ -44,6 +44,7 @@ jobs:
       - name: build
         run: |
           mkdir dist;
+          cp readme.md dist/;
           find grammar/ opus/ -type d -exec mkdir -p dist/{} \;
           find grammar/ -name "*.md" -exec npx marked -i {} -o dist/{} -c marked.base.js \;
           find opus/ -name "*.md" -exec npx marked -i {} -o dist/{} -c marked.kasi.js \;
