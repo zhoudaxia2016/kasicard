@@ -16,4 +16,4 @@
 <details><summary>それでも<ruby>愛<rt>あい</rt></ruby>したり</summary>但是我们还是盼望着</details>
 <details><summary><ruby>愛<rt>あい</rt></ruby>されたいと<ruby>願<rt>ねが</rt></ruby>っている</summary>爱与被爱</details>
 <p>あなたを<ruby>守<rt>まも</rt></ruby>れるほどの</p><p><ruby>優<rt>やさ</rt></ruby>しさを<ruby>探<rt>さが</rt></ruby>している</p><hr>
-<p>どうかそのてでもう</p>
+<p>どうかそのてでもう</p><p><a href="https://www.youtube.com/watch?v=tydZ4aRRM3U&list=RDtydZ4aRRM3U&start_radio=1">https://www.youtube.com/watch?v=tydZ4aRRM3U&amp;list=RDtydZ4aRRM3U&amp;start_radio=1</a></p>
