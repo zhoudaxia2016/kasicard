@@ -12,3 +12,7 @@
 <hr>
 <details><summary><ruby>僕<rt>ぼく</rt></ruby>らは<ruby>大切<rt>たいせつ</rt></ruby>なほとから<ruby>順<rt>じゅん</rt></ruby><ruby>番<rt>ばん</rt></ruby>に</summary>我们总是从最重要的人开始</details>
 <details><summary><ruby>傷<rt>きず</rt></ruby>つけてしまっては</summary>不停伤害着他们</details>
+<details><summary><ruby>後悔<rt>こうかい</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねていく</summary>然后又为此后悔，不停循环着</details>
+<details><summary>それでも<ruby>愛<rt>あい</rt></ruby>したり</summary>但是我们还是盼望着</details>
+<details><summary><ruby>愛<rt>あい</rt></ruby>されたいと<ruby>願<rt>ねが</rt></ruby>っている</summary>爱与被爱</details>
+<p>あなたを<ruby>守<rt>まも</rt></ruby>れるほどの</p><p><ruby>優<rt>やさ</rt></ruby>しさを<ruby>探<rt>さが</rt></ruby>している</p>
