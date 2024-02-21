@@ -1,12 +1,15 @@
 const base = require('./marked.base')
+const notate = require('./notate')
 module.exports = {
-  renderer: {
-    paragraph(text) {
-      let [p1, p2] = text.split('\n')
-      if (p2) {
-        return `<details><summary>${p1}</summary>${p2}</details>\n`
+  async: true,
+  async walkTokens(token) {
+    if (token.type === 'paragraph') {
+      let [text, translation] = token.text.split('\n')
+      text = await notate(text)
+      if (translation) {
+        text = `<details><summary>${text}</summary>${translation}</details>`
       }
-      return `<p>${p1}</p>`
+      token.tokens = this.Lexer.lexInline(text)
     }
   },
   ...base,
