@@ -10,3 +10,6 @@
 <p><details><summary>みんなのこと</summary>还想</details></p>
 <p><details><summary>もっともっと</summary>更多更多</details></p>
 <p><details><summary>お<ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>させてくださいな</summary>了解大家</details></p>
+<p><details><summary>ダンスは<ruby>任<rp>(</rp><rt>まか</rt><rp>)</rp></ruby>せて</summary>舞蹈就交给我吧（夢莉💜）</details></p>
+<p><details><summary>みんなの<ruby>心<rp>(</rp><rt>こころ</rt><rp>)</rp></ruby>をリボンで<ruby>結<rp>(</rp><rt>むす</rt><rp>)</rp></ruby>ぶ</summary>用丝带将大家的心绑在一起</details></p>
+<p><details><summary><ruby>夢<rp>(</rp><rt>ゆめ</rt><rp>)</rp></ruby>まで<ruby>飛<rp>(</rp><rt>と</rt><rp>)</rp></ruby>んでいってもいいのよ</summary>向着梦想飞去~</details></p>
