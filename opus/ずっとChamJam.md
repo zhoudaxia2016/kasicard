@@ -1,15 +1,21 @@
 <h1>ずっとChamJam</h1>
-<p><details><summary><ruby>寂<rp>(</rp><rt>さび</rt><rp>)</rp></ruby>しいがりやの<ruby>甘<rp>(</rp><rt>あま</rt><rp>)</rp></ruby>えん<ruby>坊<rp>(</rp><rt>ぼう</rt><rp>)</rp></ruby></summary>容易寂寞，像是被宠坏的孩子的那位</details></p>
+<p><details><summary><ruby>寂<rp>(</rp><rt>さび</rt><rp>)</rp></ruby>しいがりやの<ruby>甘<rp>(</rp><rt>あま</rt><rp>)</rp></ruby>えん<ruby>坊<rp>(</rp><rt>ぼう</rt><rp>)</rp></ruby></summary>容易寂寞，像是被宠坏的孩子</details></p>
 <p><details><summary>これでも<ruby>最年長<rp>(</rp><rt>さいねんちょう</rt><rp>)</rp></ruby>なんです</summary>年纪却是最大的哦（队长：玲央❤️）</details></p>
 <p><details><summary>しっかり<ruby>者<rp>(</rp><rt>しゃ</rt><rp>)</rp></ruby>だけど</summary>虽然看起来非常成熟稳重（空音💙）</details></p>
 <p><details><summary>ちょっとだけ<ruby>抜<rp>(</rp><rt>ぬ</rt><rp>)</rp></ruby>けちゃうの</summary>有时也会有点小笨</details></p>
 <p><details><summary>ダンスはたまに<ruby>忘<rp>(</rp><rt>わす</rt><rp>)</rp></ruby>れちゃう</summary>会忘记舞蹈动作</details></p>
 <p><details><summary>「ゆるして」</summary>原谅我吧~</details></p>
-<p><details><summary>いちにちげんきちょうぜつげんき</summary>一整天都是超级无敌元气满满（真妃💛）</details></p>
+<p><details><summary>いちにちげんきちょうぜつげんき</summary>一整天都是超级无敌元气满满（优佳）</details></p>
 <p><details><summary>くうき<ruby>読<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>まないとか<ruby>誰<rp>(</rp><rt>だれ</rt><rp>)</rp></ruby>かいった</summary>是谁说的我不会察言观色 😠</details></p>
 <p><details><summary>みんなのこと</summary>还想</details></p>
 <p><details><summary>もっともっと</summary>更多更多</details></p>
-<p><details><summary>お<ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>させてくださいな</summary>了解大家</details></p>
+<p><details><summary>お<ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>させてくださいな</summary>了解大家（真妃💛）</details></p>
 <p><details><summary>ダンスは<ruby>任<rp>(</rp><rt>まか</rt><rp>)</rp></ruby>せて</summary>舞蹈就交给我吧（夢莉💜）</details></p>
 <p><details><summary>みんなの<ruby>心<rp>(</rp><rt>こころ</rt><rp>)</rp></ruby>をリボンで<ruby>結<rp>(</rp><rt>むす</rt><rp>)</rp></ruby>ぶ</summary>用丝带将大家的心绑在一起</details></p>
 <p><details><summary><ruby>夢<rp>(</rp><rt>ゆめ</rt><rp>)</rp></ruby>まで<ruby>飛<rp>(</rp><rt>と</rt><rp>)</rp></ruby>んでいってもいいのよ</summary>向着梦想飞去~</details></p>
+<p><details><summary><ruby>子供<rp>(</rp><rt>こども</rt><rp>)</rp></ruby>っぽいけど<ruby>子供<rp>(</rp><rt>こども</rt><rp>)</rp></ruby>じゃないよ</summary>我虽然非常孩子气，但是不要把我当作小屁孩!（文💚）</details></p>
+<p><ruby>結構<rp>(</rp><rt>けっこう</rt><rp>)</rp></ruby>やるときゃやっちゃいます</p>
+<p><details><summary><ruby>好<rp>(</rp><rt>す</rt><rp>)</rp></ruby>きなものは<ruby>大葉<rp>(</rp><rt>おおば</rt><rp>)</rp></ruby>です</summary>喜欢的东西是紫苏</details></p>
+<p><details><summary><ruby>内気<rp>(</rp><rt>うちき</rt><rp>)</rp></ruby>でシャイ</summary>腼腆又害羞</details></p>
+<p><details><summary>だけどほんとは</summary>但是真正的我</details></p>
+<p><details><summary>もっと<ruby>愛<rp>(</rp><rt>あい</rt><rp>)</rp></ruby>されたいの</summary>想要更多的爱（まいな！まいな！💗💗）</details></p>
