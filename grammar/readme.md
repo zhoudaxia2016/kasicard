@@ -35,7 +35,7 @@
 <p>另外，还有：</p>
 <h2>连语</h2>
 <blockquote>
-<p>[!NOTE]
+<p>[!TIP]
 多个语法点结合，难以分类到具体某个当中</p>
 </blockquote>
 <p>比如 <em>かもしれません</em></p>
