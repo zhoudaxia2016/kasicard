@@ -38,7 +38,9 @@
 <p>[!TIP]
 多个语法点结合，难以分类到具体某个当中</p>
 </blockquote>
-<p>比如 <strong>かもしれません</strong></p>
+<p>比如</p>
+<pre><code>晴れるかもしれない
+</code></pre>
 <p>有终助词，副助词，动词可能形</p>
 <h2>语用</h2>
 <blockquote>
