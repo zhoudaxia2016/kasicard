@@ -32,7 +32,6 @@
 <li>助动词</li>
 <li>补助动词</li>
 </ul>
-<hr>
 <p>另外，还有：</p>
 <h2>连语</h2>
 <blockquote>
