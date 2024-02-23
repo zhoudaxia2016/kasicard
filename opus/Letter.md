@@ -1,11 +1,11 @@
 <h1>Letter</h1>
 <p><details><summary>おかえりもう１<ruby>人<rp>(</rp><rt>にん</rt><rp>)</rp></ruby>の<ruby>僕<rp>(</rp><rt>ぼく</rt><rp>)</rp></ruby></summary>欢迎回来，另一个我</details></p>
-<p><details><summary><ruby>上手<rp>(</rp><rt>うま</rt><rp>)</rp></ruby>くやれた<a href="/grammar/%E3%81%97%E3%82%85%E3%81%86%E3%81%98%E3%82%87/%E3%81%8B%E3%81%84.md">かい</a></summary>一切还顺利吗</details></p>
+<p><details><summary><ruby>上手<rp>(</rp><rt>うま</rt><rp>)</rp></ruby>くやれた<a href="/grammar/%E7%BB%88%E5%8A%A9%E8%AF%8D/%E3%81%8B%E3%81%84.md">かい</a></summary>一切还顺利吗</details></p>
 <p><details><summary>うんそれなりに</summary>嗯 还可以</details></p>
 <p><ruby>想<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>いは<ruby>手<rp>(</rp><rt>て</rt><rp>)</rp></ruby><ruby>離<rp>(</rp><rt>はな</rt><rp>)</rp></ruby>したし</p>
 <p><details><summary><ruby>我慢<rp>(</rp><rt>がまん</rt><rp>)</rp></ruby>するのだって<ruby>慣<rp>(</rp><rt>な</rt><rp>)</rp></ruby>れてきた</summary>我已经习惯忍耐</details></p>
 <p><details><summary>これでいいはずはない</summary>虽然这不是最好的</details></p>
-<p><details><summary>けどなみがぜはもうたて<a href="/grammar/%E3%81%98%E3%82%87%E3%81%A9%E3%81%86/%E3%81%9F%E3%81%84.md">たく</a><a href="/grammar/%E3%81%98%E3%82%87%E3%81%A9%E3%81%86/%E3%81%AA%E3%81%84.md">ない</a></summary>但是我已经不想再做任何事情了</details></p>
+<p><details><summary>けどなみがぜはもうたて<a href="/grammar/%E5%8A%A9%E5%8A%A8%E8%AF%8D/%E3%81%9F%E3%81%84.md">たく</a><a href="/grammar/%E5%8A%A9%E5%8A%A8%E8%AF%8D/%E3%81%AA%E3%81%84.md">ない</a></summary>但是我已经不想再做任何事情了</details></p>
 <p><details><summary><ruby>汚<rp>(</rp><rt>よご</rt><rp>)</rp></ruby>れた<ruby>鏡<rp>(</rp><rt>かがみ</rt><rp>)</rp></ruby>に<ruby>問<rp>(</rp><rt>と</rt><rp>)</rp></ruby>いかけて</summary>我质问着肮脏的镜子</details></p>
 <p><ruby>孤独<rp>(</rp><rt>こどく</rt><rp>)</rp></ruby>に<ruby>蓋<rp>(</rp><rt>ふた</rt><rp>)</rp></ruby>を<ruby>掛<rp>(</rp><rt>かか</rt><rp>)</rp></ruby>てる</p>
 <p><details><summary><ruby>大人<rp>(</rp><rt>おとな</rt><rp>)</rp></ruby>になっていくことが</summary>是不是因为成为了大人</details></p>
